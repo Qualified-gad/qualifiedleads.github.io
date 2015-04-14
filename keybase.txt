@@ -1,0 +1,67 @@
+﻿==================================================================
+https://keybase.io/auditor
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://morequalifiedleads.co.uk
+  * I am auditor (https://keybase.io/auditor) on keybase.
+  * I have a public key with fingerprint 128A 1CC9 392C 0499 E6DB  61E8 BBFB C235 F635 4B8D
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "128a1cc9392c0499e6db61e8bbfbc235f6354b8d",
+            "host": "keybase.io",
+            "key_id": "bbfbc235f6354b8d",
+            "kid": "010169658350544cd07da611be8ceb1d54b5a0c5d68d874473b9ae8009f6d01239e30a",
+            "uid": "c5a62ce3fa7f6d86af0009389ccd8119",
+            "username": "auditor"
+        },
+        "service": {
+            "hostname": "morequalifiedleads.co.uk",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1429031456,
+    "expire_in": 157680000,
+    "prev": "cb1f94b95047344397578efd94a61ce6f49ebbcd7fb5a53477036318b9dbf10a",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.8
+Comment: https://keybase.io/crypto
+
+yMIlAnicbZJbSBRhFMd3u5gZRWBJ0ZV5iBSz+Xa+uXxbEQhFdE8qKorlu40Ou82s
+M7Or22oKq0k+dMN6SKyHHiowolAoiajsYgQW2Q0KupERkVGRBNHlG7G3nj6+c37n
+f875c25OHhsqCCt7li1Euf5X4XvX16ZCWxatnp+ViMMyUjQrxfnIY1p2JXeTrmX7
+UlQCEQMDSpGCIlSGCHGNEQ1wgxCT0IiimpqiQmIwqVSqcrygQsgQ7PEyyxEx8YlZ
+TET/w8dHEjKQgYY01VBUWYWQMllnWAOAcINyApigVSxTlWkGM3QIdYUgzA1ZRqbG
+ZBBREFdkLORSI3JUxVqEcsXEusgbGjZlgSoGopQZAKAA9Lhr491c0DjFLN9xpfpS
+SQTTFuWBA8Eio8Bux+XVKZywTIuzBMfMK6NOWSouZJKu4zvUSQiqyveTXjRQ8TPJ
+oKyGk9ioYIxYNhOWioo0dz3LsaUoECT1raADgBEkKwCqWqnEa5OWy2NWQKi6JnaU
+5aAPTweLEWAiSJAqCwsgVJCu6gY3GYLCLco1EyJOCGW6KfxSFajrsqIpwCCIEROM
+OOTxatuRolCMiSuFpGdV2thPuVyqv3Ft57hQuCCUN35McBShgolT/53K+yv5oYeD
+B56UO08/35+n7Xv7+redrs1/zJZfb4Wzpu8o3nGGDzQeQnU9pO9sye1447FXp1vS
++OWvL/faG76j3NyOgzWZkwNkQv+bP3hvTdep4Z+DfR9ntlzoX/1h3Mk7i281D23K
+fVtZWDHEpid6h2Y0TAnVadls3tX2w+VXii4PLjkx7Vtp/rapsLAtjIvbf3ZUh/d1
++WPXd6uzJ53bmFlY3tLa2VbW92j7g809PfOyA2jzm41FE7Z+ehd7OvHR5Jdvve6b
+tR86Lra1/OC9za3j7+aq8IvDXzf9Xmo/K7q4bsmc57tO31oVjze1lkwr3M82DEfP
+Jxb0dh4/eqPpUjWdT46sqOhb8xeLLC4x
+=I6DT
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/auditor
+
+==================================================================
